@@ -1,0 +1,29 @@
+#speechInput {
+  min-height: 5rem;
+  margin: 10px 0;
+}
+
+.improvisation-speech {
+  &.col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.loudness-slider {
+  margin-top: 1rem;
+}
+
+.improvisation-speech-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.speech-form {
+  width: 100%;
+  border: 2px solid #665656;
+  border-radius: 5px;
+}

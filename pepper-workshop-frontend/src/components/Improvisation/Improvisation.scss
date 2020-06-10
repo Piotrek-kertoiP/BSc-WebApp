@@ -1,0 +1,19 @@
+.improvisation-container {
+  margin: 1rem;
+}
+
+.improvisation {
+  &.MuiButton-contained {
+    margin: 10px;
+    width: 200px;
+  }
+  &.header {
+    text-align: center;
+    width: 100%;
+    background-color: #a8a3a3;
+    font-size: 16px;
+    padding: 10px 5px;
+    border-radius: 5px;
+    margin: 20px 50px;
+  }
+}
